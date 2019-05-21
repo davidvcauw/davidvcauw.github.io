@@ -1,5 +1,7 @@
 .dvccentral {
     text-align: center;
+  margin: auto;
+  width: 50%;
 }
 
 ul li {
@@ -13,4 +15,8 @@ ul li {
     margin-left: 3em;
     margin-top: 1em;
     
+}
+
+.werkervaring{
+    text-align: left;
 }
