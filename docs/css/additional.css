@@ -1,0 +1,16 @@
+.dvccentral {
+    text-align: center;
+}
+
+ul li {
+    list-style-position: outside;
+    list-style-type: none;
+}
+
+.dvccentral article h2 {
+    border-bottom-color: white;
+    border-bottom: white solid 2px;
+    text-align: left;
+    margin-left: 3em;
+    
+}
